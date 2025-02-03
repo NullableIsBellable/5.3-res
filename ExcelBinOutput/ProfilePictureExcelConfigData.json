@@ -1044,6 +1044,15 @@
     "unlockDescTextMapHash": 90448680
   },
   {
+    "id": 9600,
+    "iconPath": "UI_AvatarIcon_IlCapitano_Circle",
+    "priority": 9600,
+    "nameTextMapHash": 722604652,
+    "BCHNDFDFBKN": "PROFILE_PICTURE_UNLOCK_BY_AVATAR",
+    "unlockParam": 10000112,
+    "unlockDescTextMapHash": 3605847168
+  },
+  {
     "id": 99999,
     "iconPath": "UI_AvatarIcon_Ambor_Circle",
     "priority": 99999,
