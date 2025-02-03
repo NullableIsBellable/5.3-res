@@ -6760,6 +6760,76 @@
   },
   {
     "useType": "AVATAR_FORMAL",
+    "bodyType": "BODY_MALE",
+    "scriptDataPathHash": 5593123940503998067,
+    "iconName": "UI_AvatarIcon_IlCapitano",
+    "sideIconName": "UI_AvatarIcon_IlCapitano_Circle",
+    "qualityType": "QUALITY_ORANGE",
+    "chargeEfficiency": 1,
+    "combatConfigHash": 17759251653553606782,
+    "initialWeapon": 14101,
+    "weaponType": "WEAPON_SWORD",
+    "manekinPathHash": 2100564656836494955,
+    "imageName": "AvatarImage_Forward_Wriothesley",
+    "gachaCardNameHash": 3499077273207854705,
+    "gachaImageNameHash": 4536502133507899634,
+    "coopPicNameHash": 1305514177480617194,
+    "cutsceneShow": "",
+    "skillDepotId": 8601,
+    "staminaRecoverSpeed": 25,
+    "candSkillDepotIds": [],
+    "manekinJsonConfigHash": 1619205129392321307,
+    "manekinMotionConfig": 103,
+    "descTextMapHash": 3963795561,
+    "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
+    "avatarPromoteId": 112,
+    "avatarPromoteRewardLevelList": [
+      1,
+      3,
+      5
+    ],
+    "avatarPromoteRewardIdList": [
+      900731,
+      900733,
+      900735
+    ],
+    "featureTagGroupID": 10000112,
+    "infoDescTextMapHash": 3963795725,
+    "animatorConfigPathHash": 12794072212953680806,
+    "DFJJLNDGIHP": 15797441782128210091,
+    "APFPHFAFACC": 17759251653553606782,
+    "OIMHAOCOIHO": 17372126600059091701,
+    "hpBase": 1058.1852,
+    "attackBase": 24.206,
+    "defenseBase": 59.41119,
+    "critical": 0.05,
+    "criticalHurt": 0.5,
+    "propGrowCurves": [
+      {
+        "type": "FIGHT_PROP_BASE_HP",
+        "growCurve": "GROW_CURVE_HP_S5"
+      },
+      {
+        "type": "FIGHT_PROP_BASE_ATTACK",
+        "growCurve": "GROW_CURVE_ATTACK_S5"
+      },
+      {
+        "type": "FIGHT_PROP_BASE_DEFENSE",
+        "growCurve": "GROW_CURVE_HP_S5"
+      }
+    ],
+    "prefabPathRagdollHash": 10884904018528933191,
+    "deformationMeshPathHash": 14480644773076418706,
+    "id": 10000112,
+    "nameTextMapHash": 370151078,
+    "prefabPathHash": 958612249731404401,
+    "prefabPathRemoteHash": 3206506299439197656,
+    "controllerPathHash": 12772624171448947811,
+    "controllerPathRemoteHash": 1929995972627889271,
+    "lodPatternName": ""
+  },
+  {
+    "useType": "AVATAR_FORMAL",
     "bodyType": "BODY_LADY",
     "scriptDataPathHash": 3744219756526631032,
     "iconName": "UI_AvatarIcon_Mavuika",
